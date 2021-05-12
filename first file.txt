@@ -1,7 +1,5 @@
 This is first commit.
 Changed from git hub.
-<<<<<<< HEAD
 Trying to commit the changes of multiple updates of other people.
-=======
 Other person change.
->>>>>>> 69c4ce48acadb04ec8d0b6f4c59995b838f5ecbc
+
